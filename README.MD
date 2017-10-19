@@ -8,3 +8,5 @@ La práctica consistirá en demostrar el manejo del Sketch replicando 4 pantal
 - La tipografía de Wallapop es hecha a medida, así que utilizaremos la Museo Sans,
 que os adjunto en la carpeta.
 * Se incluyen las pantallas en la carpeta de la práctica
+
+- Enlace a prototipo navegable en [Marvel](https://marvelapp.com/10f538f6)
